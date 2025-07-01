@@ -1,0 +1,8 @@
+C:\Datawarehousing\DataWarehouse\TabularProject\bin\Model.asdatabase
+C:\Datawarehousing\DataWarehouse\TabularProject\bin\Model.deploymenttargets
+C:\Datawarehousing\DataWarehouse\TabularProject\bin\Model.deploymentoptions
+C:\Datawarehousing\DataWarehouse\TabularProject\obj\Development\TabularProject.smproj.AssemblyReference.cache
+C:\Datawarehousing\DataWarehouse\TabularProject\obj\Development\TabularProject.smproj.CoreCompileInputs.cache
+C:\Datawarehousing\DataWarehouse\TabularProject\obj\Development\Model.asdatabase
+C:\Datawarehousing\DataWarehouse\TabularProject\obj\Development\Model.deploymentoptions
+C:\Datawarehousing\DataWarehouse\TabularProject\obj\Development\Model.deploymenttargets
