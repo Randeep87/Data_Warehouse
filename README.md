@@ -125,7 +125,7 @@ It includes data extraction, transformation, and loading (ETL) processes to prep
 ---
 
 ## 📸 Screenshots 
-_Add screenshots of SSIS package / database schema here_
+
 <img width="1190" height="600" alt="image" src="https://github.com/user-attachments/assets/9749364b-1427-4473-9a8d-49491b827623" />
 
 
