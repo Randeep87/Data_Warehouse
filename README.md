@@ -70,7 +70,4 @@ It includes data extraction, transformation, and loading (ETL) processes to prep
 
 ## 👨‍💻 Author
 Randeep  
-
-
-Randeep  
 SQL Developer | Data Engineer | BI Enthusiast
